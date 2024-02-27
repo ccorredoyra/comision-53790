@@ -1,5 +1,21 @@
 *{
     margin: 0;
     padding: 0;
-    
+    box-sizing:  border-box;
+}
+
+body{
+    background-color: blue;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section{
+    height: 400px;
+    width: 100%;
+    color: azure;
 }
